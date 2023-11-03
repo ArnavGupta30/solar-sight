@@ -2,5 +2,5 @@
 
 ## Usage:
 ```
-https://solar-sight.herokuapp.com/api/?place=<location>
+https://api-solar-sight.onrender.com?place=<location>
 ```
